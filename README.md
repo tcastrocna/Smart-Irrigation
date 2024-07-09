@@ -1,5 +1,10 @@
 # Projeto Simples de irrigação Inteligente usando ESP32.
 
+## Plataformas Utilizada
+-  [Chip Esp32](https://www.espressif.com/en/products/socs/esp32)
+-  [Blynk IoT 2.0](https://blynk.io/)
+-  [Blynk App](https://play.google.com/store/apps/details?id=cloud.blynk&hl=pt_BR&gl=US)
+
 ## Esquema de Ligação 
 ![](IRRIGACAO-SMART_bb.png)
 
